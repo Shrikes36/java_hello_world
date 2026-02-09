@@ -1,0 +1,11 @@
+# Namaste, I'm Shrikesh Pasi from Nepal :nepal:
+I am a Civil Engineering diplomate from Nepal with a 3.53 GPA,now channeling my engineering logic into the world of software development.
+
+### About Me
+- **Background:** Diploma in Civil Engineering (Vocational).
+- **Currently Learning:** Java (Daily practice and self-study).
+- **Goal:** To combine my Structural engineering discipline with Computer Science to build robust applications.
+
+### Technical Skills
+- **Language:** Java (Basics),learning every day.
+- **Engineering Tools:** AutoCAD,Civil Engineering Design
